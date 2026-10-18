@@ -1,13 +1,12 @@
 <div align="center">
 
-# Yuan Gao (高远)
+# Ryan Gao (高远)
 
 **Cross-border DTC Operator · Overseas Content Marketer · Front-end Developer**
 
 📍 Shenzhen, China　·　🎓 Software Technology　·　💬 IELTS 6.5
 
 [![Email](https://img.shields.io/badge/Email-ahyuan0701%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahyuan0701@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-131--5768--4052-2C8C4A?style=flat-square&logo=wechat&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Based%20in-Shenzhen-4A90D9?style=flat-square)](#)
 [![Open to work](https://img.shields.io/badge/Open%20to-work-brightgreen?style=flat-square)](#)
 
