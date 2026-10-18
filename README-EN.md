@@ -117,7 +117,6 @@ All from free official programs: Google Skillshop · Shopify Academy · HubSpot 
 If you're building in **cross-border commerce / DTC / overseas content** — or you need someone who does **build + content** in one person — I'd like to hear from you.
 
 - 📧 ahyuan0701@gmail.com
-- 📱 +86 131-5768-4052 (Phone / WeChat)
 - 📍 Shenzhen · available immediately
 
 ---
