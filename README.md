@@ -75,7 +75,7 @@ If you're building in **cross-border commerce / DTC / overseas content** — or 
 
 **📧 ahyuan0701@gmail.com**
 
-📱 +86 131-5768-4052 (WeChat)　·　📍 Shenzhen　·　Available immediately
+·　📍 Shenzhen　·　Available immediately
 
 ---
 
