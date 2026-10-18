@@ -143,7 +143,7 @@ If you're building in **cross-border commerce / DTC / overseas content** — or 
 
 **📧 ahyuan0701@gmail.com**
 
-📱 131-5768-4052（微信）　·　📍 深圳　·　可即时到岗
+　📍 深圳　·　可即时到岗
 
 </details>
 
