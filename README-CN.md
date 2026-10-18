@@ -1,10 +1,10 @@
 <div align="center">
 
-# 高远 Yuan Gao
+# 高远 Ryan Gao
 
 **跨境独立站运营 / 出海内容运营 / 前端开发**
 
-📍 广东深圳　·　🎓 软件技术（专科）　·　💬 IELTS 6.5
+📍 广东深圳　·　🎓 软件技术　·　💬 IELTS 6.5
 
 ![Email](https://img.shields.io/badge/Email-ahyuan0701%40gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)
 
