@@ -8,8 +8,6 @@
 
 ![Email](https://img.shields.io/badge/Email-ahyuan0701%40gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)
 
-![Phone](https://img.shields.io/badge/Phone-131--5768--4052-2C8C4A?style=flat-square\&logo=wechat\&logoColor=white)
-
 ![Location](https://img.shields.io/badge/%E5%9F%BA%E4%BA%8E-%E6%B7%B1%E5%9C%B3-4A90D9?style=flat-square)
 
 ![Status](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E5%8D%B3%E6%97%B6%E5%88%B0%E5%B2%97-brightgreen?style=flat-square)
@@ -126,7 +124,6 @@
 如果你在做**跨境出海 / 独立站 / 海外内容**，或者需要**建站 + 内容**一条龙的人，欢迎聊：
 
 - 📧 邮箱：<ahyuan0701@gmail.com>
-- 📱 电话 / 微信：131-5768-4052
 - 📍 现居深圳，可即时到岗
 
 ---
